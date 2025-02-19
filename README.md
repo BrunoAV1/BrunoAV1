@@ -57,8 +57,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/BrunoAV1/BrunoAV1/output/snake.svg" alt="Snake animation" />
-
-###
