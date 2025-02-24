@@ -3,16 +3,31 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/bruno-vasconcellos-360070351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/brvno.me?igsh=bTMzbGg3Ymo5dXE5 " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 </div>
 
 ###
 
-<h4 align="center">First contact skills</h4>
+<p align="center">Systems Analysis and Development student.</p>
 
 ###
 
 <h2 align="left"></h2>
+
+###
+
+<h4 align="center">First contact skills</h4>
 
 ###
 
@@ -58,9 +73,6 @@
 </div>
 
 ###
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/brvno.me?igsh=bTMzbGg3Ymo5dXE5 " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
