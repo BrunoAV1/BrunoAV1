@@ -17,8 +17,7 @@ Sou **Bruno Araujo de Vasconcellos**, estudante de **Análise e Desenvolvimento 
   Aplicativo Android desenvolvido com **Flutter**, que permite leitura offline de arquivos PDF.  
   Focado em **inclusão digital**, é voltado para pessoas com pouco acesso à internet.  
 
-  🔗 [Baixar APK](https://github.com/BrunoAV1/Leitura-Livre-APP/releases/latest)  
-  📧 Sugestões? Envie para: brunovasconcellos.ads@gmail.com  
+  🔗 [Baixar APK](https://github.com/BrunoAV1/Leitura-Livre-APP/releases/latest)    
 
 - **[🖐️ Detector de Gestos](https://github.com/BrunoAV1/Detector-de-Gestos)**  
   Projeto em Python que captura e interpreta gestos usando visão computacional.  
