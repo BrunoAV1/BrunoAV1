@@ -15,7 +15,7 @@ Sou **Bruno Araujo de Vasconcellos**, estudante de **Análise e Desenvolvimento 
 
 Conheça meu portfólio online com mais detalhes sobre meus projetos e habilidades:
 
-👉 **[Bruno Vasconcellos - Portifólio]([https://vercel.com/brunos-projects-298cf7eb/bruno-portifolio](https://bruno-portifolio-phi.vercel.app/))**
+👉 **[Bruno Vasconcellos - Portifólio]([https://vercel.com/brunos-projects-298cf7eb/bruno-portifolio](https://bruno-portifolio-phi.vercel.app/)**
 
 ---
 
