@@ -21,7 +21,7 @@ Conheça meu portfólio online com mais detalhes sobre meus projetos e habilidad
 
 ### 🚀 Projetos em Destaque
 
-- **[📱 Leitura Livre](https://github.com/BrunoAV1/Leitura-Livre-APP)**  
+- **[📱 Leitura Livre]([https://github.com/BrunoAV1/Leitura-Livre-APP](https://bruno-portifolio-git-main-brunos-projects-298cf7eb.vercel.app/))**  
   Aplicativo Android desenvolvido com **Flutter**, que permite leitura offline de arquivos PDF.  
   Focado em **inclusão digital**, é voltado para pessoas com pouco acesso à internet.  
 
