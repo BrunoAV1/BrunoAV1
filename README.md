@@ -34,8 +34,7 @@ Conheça meu portfólio online com mais detalhes sobre meus projetos e habilidad
 - **[📇 Agenda de Contatos](https://github.com/BrunoAV1/Agenda-de-Contatos)**  
   Aplicativo funcional de agenda em Python, com foco em organização e usabilidade simples.
 
-- **[🚀 FocusFlow Landing Page](https://landingpage-focusflow.vercel.app/)**
-  Apresentação elegante e envolvente para o FocusFlow – porque a primeira impressão faz toda a diferença.
+- **[🚀 FocusFlow Landing Page](https://landingpage-focusflow.vercel.app/)**                                                                                                                   Apresentação elegante e envolvente para o FocusFlow – porque a primeira impressão faz toda a diferença.
 
 ---
 
