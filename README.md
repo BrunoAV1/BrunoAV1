@@ -7,7 +7,7 @@ Sou **Bruno Araujo de Vasconcellos**, estudante de **Análise e Desenvolvimento 
 - 🌱 **Em aprendizado:** Desenvolvimento Web, Análise de Dados e Aplicativos Móveis.
 - 🎯 **Objetivo:** Tornar-me um desenvolvedor Fullstack e contribuir para projetos inovadores que impactem positivamente a sociedade.
 - 📚 **Interesses:** Desenvolvimento de Software, Desenvolvimento de Aplicativos Móveis, Inteligência Artificial e Segurança da Informação.
-- 🛠️ **Competências Técnicas:** Python, Java, HTML/CSS, JavaScript, Git, **Dart** e **Flutter**.
+- 🛠️ **Competências Técnicas:** Python, Java, HTML/CSS, JavaScript, Git, Dart e Flutter.
 
 ---
 
