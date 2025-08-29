@@ -1,61 +1,58 @@
-# 👋 Bem-vindo ao meu GitHub!
+# 👋 Bem-vindo ao GitHub de Bruno A. Vasconcellos
 
-### 🖥️ Sobre Mim
+## Sobre Mim
 
-Sou **Bruno Araujo de Vasconcellos**, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, inovação e projetos que fazem a diferença. Estou sempre em busca de aprender, evoluir e transformar ideias em soluções reais.
+Sou **Bruno Araujo de Vasconcellos**, estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Data Analysis**, desenvolvimento **Fullstack** e projetos sociais que possam contribuir para a sociedade.  
+Tenho interesse em iniciativas que envolvem análise, visualização e manipulação de dados, além de soluções tecnológicas que promovam impacto social positivo. Busco aprimorar minhas habilidades técnicas e participar de projetos inovadores, colaborativos e transformadores.
 
-- 🌱 **Em aprendizado:** Desenvolvimento Web, Análise de Dados e Aplicativos Móveis.
-- 🎯 **Objetivo:** Tornar-me um desenvolvedor Fullstack e contribuir para projetos inovadores que impactem positivamente a sociedade.
-- 📚 **Interesses:** Desenvolvimento de Software, Desenvolvimento de Aplicativos Móveis, Inteligência Artificial e Segurança da Informação.
-- 🛠️ **Competências Técnicas:** Python, Java, HTML/CSS, JavaScript, Git, Dart e Flutter.
-
----
-
-### 🌐 Portfólio
-
-Conheça meu portfólio online com mais detalhes sobre meus projetos e habilidades:
-
-👉 **[Bruno Vasconcellos - Portfólio](https://bruno-portifolio-phi.vercel.app/)**
+- **Foco:** Data Analysis, Engenharia de Dados, Desenvolvimento Fullstack, Visualização de Dados e Projetos Sociais.
+- **Objetivo:** Especializar-me em análise de dados e desenvolvimento fullstack, contribuindo para projetos que utilizem tecnologia e informação para gerar valor e impacto social.
+- **Principais Tecnologias:** Python, Java, Lua, SQL, Git.
 
 ---
 
-### 🚀 Projetos em Destaque
+## Portfólio
 
-- **[📱 Leitura Livre](https://github.com/BrunoAV1/Leitura-Livre-APP)**  
-  Aplicativo Android desenvolvido com **Flutter**, que permite leitura offline de arquivos PDF.  
-  Focado em **inclusão digital**, é voltado para pessoas com pouco acesso à internet.  
+Acesse meu portfólio online para conhecer mais sobre meus projetos, trajetória acadêmica e iniciativas sociais:
 
-  🔗 [Baixar APK](https://github.com/BrunoAV1/Leitura-Livre-APP/releases/latest)  
-  
-- **[🖐️ Detector de Gestos](https://github.com/BrunoAV1/Detector-de-Gestos)**  
-  Projeto em Python que captura e interpreta gestos usando visão computacional.  
-  Ideal como base para aplicações de acessibilidade ou interação natural com sistemas.  
-
-- **[📇 Agenda de Contatos](https://github.com/BrunoAV1/Agenda-de-Contatos)**  
-  Aplicativo funcional de agenda em Python, com foco em organização e usabilidade simples.
-
-- **[🚀 FocusFlow Landing Page](https://landingpage-focusflow.vercel.app/)**  
-  Apresentação elegante e envolvente para o FocusFlow – porque a primeira impressão faz toda a diferença.
-                                                                                                                  
+[Bruno Vasconcellos - Portfólio](https://bruno-portifolio-phi.vercel.app/)
 
 ---
 
-### 💬 Entre em Contato
+## Projetos em Destaque
 
-Quer bater um papo, colaborar ou sugerir ideias?
+- **[Mapa de Conflito Estratégico](https://github.com/BrunoAV1/mapa-conflitos)**  
+  Plataforma web para registro e análise de eventos geográficos, integrando dados e notícias em tempo real.  
+  Desenvolvido com Python (FastAPI), SQL e visualização interativa.  
+  Projeto com potencial de aplicação social para monitoramento de áreas de risco.
 
-- 📧 **Email:** [brunovasconcellos.ads@gmail.com](mailto:brunovasconcellos.ads@gmail.com)  
-- 🌐 **LinkedIn:** [Bruno Vasconcellos](https://www.linkedin.com/in/bruno-vasconcellos-360070351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **[Detector de Gestos](https://github.com/BrunoAV1/Detector-de-Gestos)**  
+  Projeto em Python para captura e interpretação de gestos via visão computacional.  
+  Aplicável em acessibilidade, inclusão digital e interfaces naturais.
+
+- **[Agenda de Contatos](https://github.com/BrunoAV1/Agenda-de-Contatos)**  
+  Aplicativo de agenda em Python, com foco em organização e manipulação eficiente de dados.
 
 ---
 
-### ⚡ Curiosidades
+## Contato
 
-- 💡 Movido por desafios e apaixonado por explorar novas tecnologias.
-- 🎮 Gamer nas horas vagas, com preferência por jogos de estratégia e raciocínio.
+Estou aberto a colaborações, dúvidas, sugestões e parcerias em projetos sociais e tecnológicos:
+
+- **Email:** [brunovasconcellos.ads@gmail.com](mailto:brunovasconcellos.ads@gmail.com)
+- **LinkedIn:** [Bruno Vasconcellos](https://www.linkedin.com/in/bruno-vasconcellos-360070351)
+
+---
+
+## Informações Adicionais
+
+- Motivado por desafios e pela busca de soluções baseadas em dados e tecnologia para benefício social.
+- Gamer nas horas vagas, com preferência por jogos de estratégia e lógica.
+- Entusiasta de projetos colaborativos e de impacto social.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoAV1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoAV1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoAV1&show_icons=true&theme=ocean_dark" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoAV1&layout=compact&langs_count=5&theme=ocean_dark" height="150" alt="top languages" />
+</div>
