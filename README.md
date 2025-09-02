@@ -2,18 +2,18 @@
 
 ## Sobre Mim
 
-Sou **Bruno Araujo de Vasconcellos**, estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Data Analysis**, desenvolvimento **Fullstack** e projetos sociais que possam contribuir para a sociedade.  
-Tenho interesse em iniciativas que envolvem análise, visualização e manipulação de dados, além de soluções tecnológicas que promovam impacto social positivo. Busco aprimorar minhas habilidades técnicas e participar de projetos inovadores, colaborativos e transformadores.
+Sou **Bruno Araujo de Vasconcellos**, estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por tecnologia, com foco em **Data Analysis** e **Desenvolvimento Fullstack** utilizando **Python** e **Java**.  
+Busco criar soluções inovadoras que gerem impacto social, combinando análise de dados, desenvolvimento web e backend, além de colaborar em projetos que promovam transformação positiva.
 
-- **Foco:** Data Analysis, Engenharia de Dados, Desenvolvimento Fullstack, Visualização de Dados e Projetos Sociais.
-- **Objetivo:** Especializar-me em análise de dados e desenvolvimento fullstack, contribuindo para projetos que utilizem tecnologia e informação para gerar valor e impacto social.
-- **Principais Tecnologias:** Python, Java, Lua, SQL, Git.
+- **Foco:** Data Analysis, Fullstack Development (Python & Java), Visualização de Dados, Projetos Sociais.
+- **Objetivo:** Especializar-me em análise de dados e desenvolvimento fullstack, contribuindo para projetos que utilizem tecnologia para gerar valor e impacto social.
+- **Principais Tecnologias:** Python, Java, SQL, Git.
 
 ---
 
 ## Portfólio
 
-Acesse meu portfólio online para conhecer mais sobre meus projetos, trajetória acadêmica e iniciativas sociais:
+Conheça meus projetos, trajetória acadêmica e iniciativas sociais:
 
 [Bruno Vasconcellos - Portfólio](https://bruno-portifolio-phi.vercel.app/)
 
