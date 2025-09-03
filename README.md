@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Bruno A. Vasconcellos
+# 👋 Olá, eu sou Bruno Araujo de Vasconcellos
 
 ## Sobre Mim
 
