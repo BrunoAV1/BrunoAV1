@@ -1,58 +1,60 @@
-# 👋 Bem-vindo ao GitHub de Bruno A. Vasconcellos
+# 👋 Olá, eu sou Bruno A. Vasconcellos
 
 ## Sobre Mim
 
-Sou **Bruno Araujo de Vasconcellos**, estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por tecnologia, com foco em **Data Analysis** e **Desenvolvimento Fullstack** utilizando **Python** e **Java**.  
-Busco criar soluções inovadoras que gerem impacto social, combinando análise de dados, desenvolvimento web e backend, além de colaborar em projetos que promovam transformação positiva.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Data Analysis** e **Desenvolvimento Fullstack** utilizando **Python** e **Java**.  
+Tenho paixão por criar soluções tecnológicas que gerem impacto social positivo, combinando análise de dados, desenvolvimento web e backend.
 
-- **Foco:** Data Analysis, Fullstack Development (Python & Java), Visualização de Dados, Projetos Sociais.
-- **Objetivo:** Especializar-me em análise de dados e desenvolvimento fullstack, contribuindo para projetos que utilizem tecnologia para gerar valor e impacto social.
-- **Principais Tecnologias:** Python, Java, SQL, Git.
-
----
-
-## Portfólio
-
-Conheça meus projetos, trajetória acadêmica e iniciativas sociais:
-
-[Bruno Vasconcellos - Portfólio](https://bruno-portifolio-phi.vercel.app/)
+- 🎯 **Áreas de Atuação:**  
+  Data Analysis | Fullstack Development (Python & Java) | Visualização de Dados | Projetos Sociais  
+- 🎯 **Objetivo:**  
+  Especializar-me em análise de dados e desenvolvimento fullstack para contribuir com projetos que promovam transformação social.  
+- 🛠️ **Tecnologias:**  
+  Python | Java | SQL | Git
 
 ---
 
-## Projetos em Destaque
+## 💼 Portfólio
 
-- **[Mapa de Conflito Estratégico](https://github.com/BrunoAV1/mapa-conflitos)**  
-  Plataforma web para registro e análise de eventos geográficos, integrando dados e notícias em tempo real.  
-  Desenvolvido com Python (FastAPI), SQL e visualização interativa.  
-  Projeto com potencial de aplicação social para monitoramento de áreas de risco.
-
-- **[Detector de Gestos](https://github.com/BrunoAV1/Detector-de-Gestos)**  
-  Projeto em Python para captura e interpretação de gestos via visão computacional.  
-  Aplicável em acessibilidade, inclusão digital e interfaces naturais.
-
-- **[Agenda de Contatos](https://github.com/BrunoAV1/Agenda-de-Contatos)**  
-  Aplicativo de agenda em Python, com foco em organização e manipulação eficiente de dados.
+Confira meus projetos, trajetória acadêmica e iniciativas sociais:  
+🔗 [bruno-portifolio-phi.vercel.app](https://bruno-portifolio-phi.vercel.app/)
 
 ---
 
-## Contato
+## 🚀 Projetos em Destaque
 
-Estou aberto a colaborações, dúvidas, sugestões e parcerias em projetos sociais e tecnológicos:
+### [Mapa de Conflito Estratégico](https://github.com/BrunoAV1/mapa-conflitos)  
+Plataforma web para registro e análise de eventos geográficos em tempo real.  
+Tecnologias: Python (FastAPI), SQL, visualização interativa.  
+Aplicação social para monitoramento de áreas de risco.
 
-- **Email:** [brunovasconcellos.ads@gmail.com](mailto:brunovasconcellos.ads@gmail.com)
-- **LinkedIn:** [Bruno Vasconcellos](https://www.linkedin.com/in/bruno-vasconcellos-360070351)
+### [Detector de Gestos](https://github.com/BrunoAV1/Detector-de-Gestos)  
+Sistema de captura e interpretação de gestos via visão computacional.  
+Focado em acessibilidade e interfaces naturais.
+
+### [Agenda de Contatos](https://github.com/BrunoAV1/Agenda-de-Contatos)  
+Aplicativo para organização e manipulação eficiente de contatos pessoais em Python.
 
 ---
 
-## Informações Adicionais
+## 📫 Contato
 
-- Motivado por desafios e pela busca de soluções baseadas em dados e tecnologia para benefício social.
-- Gamer nas horas vagas, com preferência por jogos de estratégia e lógica.
-- Entusiasta de projetos colaborativos e de impacto social.
+Estou aberto a colaborações, dúvidas e parcerias:  
+
+✉️ [brunovasconcellos.ads@gmail.com](mailto:brunovasconcellos.ads@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bruno-vasconcellos-360070351)
+
+---
+
+## ⚡ Mais Sobre Mim
+
+- Motivado por desafios e soluções baseadas em dados para impacto social.  
+- Gamer nas horas vagas, fã de jogos de estratégia e lógica.  
+- Entusiasta de projetos colaborativos e sociais.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoAV1&show_icons=true&theme=ocean_dark" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoAV1&layout=compact&langs_count=5&theme=ocean_dark" height="150" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoAV1&show_icons=true&theme=ocean_dark" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoAV1&layout=compact&langs_count=5&theme=ocean_dark" height="150" alt="Top languages" />
 </div>
