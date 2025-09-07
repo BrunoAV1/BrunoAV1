@@ -1,60 +1,65 @@
-# 👋 Olá, eu sou Bruno Araujo de Vasconcellos
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/199863815?v=4" width="120" alt="Bruno Vasconcellos" style="border-radius:50%">
+</p>
 
-## Sobre Mim
+<h2 align="center">Bruno Araujo de Vasconcellos</h2>
+<p align="center">
+  Desenvolvedor Web • Analista de Dados • IA & ML Enthusiast
+</p>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Data Analysis** e **Desenvolvimento Fullstack** utilizando **Python** e **Java**.  
-Tenho paixão por criar soluções tecnológicas que gerem impacto social positivo, combinando análise de dados, desenvolvimento web e backend.
-
-- 🎯 **Áreas de Atuação:**  
-  Data Analysis | Fullstack Development (Python & Java) | Visualização de Dados | Projetos Sociais  
-- 🎯 **Objetivo:**  
-  Especializar-me em análise de dados e desenvolvimento fullstack para contribuir com projetos que promovam transformação social.  
-- 🛠️ **Tecnologias:**  
-  Python | Java | SQL | Git
-
----
-
-## 💼 Portfólio
-
-Confira meus projetos, trajetória acadêmica e iniciativas sociais:  
-🔗 [bruno-portifolio-phi.vercel.app](https://bruno-portifolio-phi.vercel.app/)
+<p align="center">
+  <a href="mailto:brunovasconcellos.ads@gmail.com"><img src="https://img.shields.io/badge/Email-0077b6?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bruno-vasconcellos-360070351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b6?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://bruno-portifolio-phi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00aaff?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### [Mapa de Conflito Estratégico](https://github.com/BrunoAV1/mapa-conflitos)  
-Plataforma web para registro e análise de eventos geográficos em tempo real.  
-Tecnologias: Python (FastAPI), SQL, visualização interativa.  
-Aplicação social para monitoramento de áreas de risco.
-
-### [Detector de Gestos](https://github.com/BrunoAV1/Detector-de-Gestos)  
-Sistema de captura e interpretação de gestos via visão computacional.  
-Focado em acessibilidade e interfaces naturais.
-
-### [Agenda de Contatos](https://github.com/BrunoAV1/Agenda-de-Contatos)  
-Aplicativo para organização e manipulação eficiente de contatos pessoais em Python.
+<p align="center">
+  <b>Transformando dados e código em soluções criativas.</b>
+</p>
 
 ---
 
-## 📫 Contato
+### 🚀 Sobre
 
-Estou aberto a colaborações, dúvidas e parcerias:  
+Sou apaixonado por tecnologia e por criar soluções que realmente fazem a diferença. Tenho experiência em:
 
-✉️ [brunovasconcellos.ads@gmail.com](mailto:brunovasconcellos.ads@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/bruno-vasconcellos-360070351)
-
----
-
-## ⚡ Mais Sobre Mim
-
-- Motivado por desafios e soluções baseadas em dados para impacto social.  
-- Gamer nas horas vagas, fã de jogos de estratégia e lógica.  
-- Entusiasta de projetos colaborativos e sociais.
+- <b>Desenvolvimento Web</b>: Criação de interfaces modernas, responsivas e acessíveis, sempre focando na experiência do usuário e em boas práticas de usabilidade e performance.
+- <b>Back-End</b>: Desenvolvimento de APIs, automações e integrações, com atenção à lógica, segurança e escalabilidade das soluções.
+- <b>Inteligência Artificial & Dados</b>: Aplicação de técnicas de machine learning, análise e visualização de dados para gerar insights e apoiar decisões, além de explorar visão computacional e automação inteligente.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoAV1&show_icons=true&theme=ocean_dark" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoAV1&layout=compact&langs_count=5&theme=ocean_dark" height="150" alt="Top languages" />
-</div>
+### 🛠️ Ferramentas & Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-00aaff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Back--End-0077b6?style=for-the-badge&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA%20%26%20Dados-ff6f00?style=for-the-badge&logo=brain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automação-6db33f?style=for-the-badge&logo=gears&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visualização%20de%20Dados-5c3ee8?style=for-the-badge&logo=bar-chart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Versionamento-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Projetos Recentes
+
+- [Password Guardian Web](https://github.com/BrunoAV1/password-guardian-web): Criação segura de senhas com criptografia.
+- [Detector de Gestos](https://github.com/BrunoAV1/Detector-de-Gestos): Reconhecimento de gestos via webcam.
+
+<sub>Veja mais no <a href="https://bruno-portifolio-phi.vercel.app/">portfólio online</a>.</sub>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoAV1&show_icons=true&hide_title=true&hide_border=true&theme=dark" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAV1&layout=compact&hide_border=true&theme=dark" height="140">
+</p>
+
+---
+
+<p align="center">
+  <i>"Menos é mais: código limpo, soluções elegantes."</i>
+</p>
