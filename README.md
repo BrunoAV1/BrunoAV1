@@ -1,45 +1,40 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/199863815?v=4" width="120" alt="Bruno Vasconcellos" style="border-radius:50%">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Bruno+Araujo+de+Vasconcellos!;Desenvolvedor+Web+e+Analista+de+Dados;Apaixonado+por+IA%2C+Machine+Learning+e+Tecnologia" alt="Typing SVG" />
 </p>
 
-<h2 align="center">Bruno Araujo de Vasconcellos</h2>
-<p align="center">
-  Desenvolvedor Web • Analista de Dados • IA & ML Enthusiast
-</p>
+<h2 align="center">Transformando dados e código em soluções criativas 🚀</h2>
 
 <p align="center">
-  <a href="mailto:brunovasconcellos.ads@gmail.com"><img src="https://img.shields.io/badge/Email-0077b6?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bruno-vasconcellos-360070351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b6?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://bruno-portifolio-phi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00aaff?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:brunovasconcellos.ads@gmail.com"><img src="https://img.shields.io/badge/Email-0077b6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bruno-vasconcellos-360070351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://bruno-portifolio-phi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00aaff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <b>Transformando dados e código em soluções criativas.</b>
-</p>
+### 👨‍💻 Sobre Mim
 
----
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por criar soluções tecnológicas que geram impacto social e facilitam a vida das pessoas. Tenho experiência em:
 
-### 🚀 Sobre
+- <b>Desenvolvimento Web</b>: Interfaces modernas, responsivas e acessíveis, com foco em experiência do usuário, performance e boas práticas.
+- <b>Back-End</b>: Criação de APIs, automações e integrações, priorizando lógica, segurança e escalabilidade.
+- <b>Inteligência Artificial & Dados</b>: Aplicação de machine learning, análise e visualização de dados, visão computacional e automação inteligente para gerar insights e apoiar decisões.
 
-Sou apaixonado por tecnologia e por criar soluções que realmente fazem a diferença. Tenho experiência em:
-
-- <b>Desenvolvimento Web</b>: Criação de interfaces modernas, responsivas e acessíveis, sempre focando na experiência do usuário e em boas práticas de usabilidade e performance.
-- <b>Back-End</b>: Desenvolvimento de APIs, automações e integrações, com atenção à lógica, segurança e escalabilidade das soluções.
-- <b>Inteligência Artificial & Dados</b>: Aplicação de técnicas de machine learning, análise e visualização de dados para gerar insights e apoiar decisões, além de explorar visão computacional e automação inteligente.
+Meu objetivo é unir tecnologia, criatividade e propósito para construir projetos que realmente façam a diferença.
 
 ---
 
 ### 🛠️ Ferramentas & Tecnologias
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-00aaff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Back--End-0077b6?style=for-the-badge&logo=server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA%20%26%20Dados-ff6f00?style=for-the-badge&logo=brain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automação-6db33f?style=for-the-badge&logo=gears&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visualização%20de%20Dados-5c3ee8?style=for-the-badge&logo=bar-chart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Versionamento-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,spring,git,opencv,tensorflow" height="32"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-00aaff?style=flat-square&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Back--End-0077b6?style=flat-square&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA%20%26%20Dados-ff6f00?style=flat-square&logo=brain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automação-6db33f?style=flat-square&logo=gears&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visualização%20de%20Dados-5c3ee8?style=flat-square&logo=bar-chart&logoColor=white"/>
 </p>
 
 ---
@@ -53,6 +48,23 @@ Sou apaixonado por tecnologia e por criar soluções que realmente fazem a difer
 
 ---
 
+### ⚡ Curiosidades & Diferenciais
+
+- Motivado por desafios e soluções baseadas em dados para impacto social.
+- Fã de jogos de estratégia, lógica e tecnologia.
+- Entusiasta de projetos colaborativos e sociais.
+- Sempre aprendendo e buscando novas formas de inovar.
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:brunovasconcellos.ads@gmail.com">brunovasconcellos.ads@gmail.com</a> • <a href="https://www.linkedin.com/in/bruno-vasconcellos-360070351/">LinkedIn</a> • <a href="https://bruno-portifolio-phi.vercel.app/">Portfólio</a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoAV1&show_icons=true&hide_title=true&hide_border=true&theme=dark" height="140">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAV1&layout=compact&hide_border=true&theme=dark" height="140">
@@ -61,5 +73,5 @@ Sou apaixonado por tecnologia e por criar soluções que realmente fazem a difer
 ---
 
 <p align="center">
-  <i>"Menos é mais: código limpo, soluções elegantes."</i>
+  <i>"A tecnologia é a arte de transformar ideias em soluções."</i>
 </p>
