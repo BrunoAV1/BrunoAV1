@@ -1,16 +1,10 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Bruno+Araujo+de+Vasconcellos!;Desenvolvedor+Web+e+Analista+de+Dados;Apaixonado+por+IA%2C+Machine+Learning+e+Tecnologia" alt="Typing SVG" />
 </p>
 
 <h2 align="center">Transformando dados e código em soluções criativas 🚀</h2>
 
-<p align="center">
-  <a href="mailto:brunovasconcellos.ads@gmail.com"><img src="https://img.shields.io/badge/Email-0077b6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bruno-vasconcellos-360070351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://bruno-portifolio-phi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00aaff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
 
 ### 👨‍💻 Sobre Mim
 
@@ -60,14 +54,10 @@ Meu objetivo é unir tecnologia, criatividade e propósito para construir projet
 ### 📫 Contato
 
 <p align="center">
-  <a href="mailto:brunovasconcellos.ads@gmail.com"><img src="https://img.shields.io/badge/E-mail-0077b6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/5588999999999" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:brunovasconcellos.ads@gmail.com"><img src="https://img.shields.io/badge/E--mail-0077b6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bruno-vasconcellos-360070351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://bruno-portifolio-phi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00aaff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-<p align="center">
-  <b>Email:</b> brunovasconcellos.ads@gmail.com &nbsp;|&nbsp; <b>LinkedIn:</b> /bruno-vasconcellos-360070351 &nbsp;|&nbsp; <b>Portfólio:</b> bruno-portifolio-phi.vercel.app
-</p>
+
 
 ---
 
