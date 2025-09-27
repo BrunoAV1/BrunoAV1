@@ -36,9 +36,8 @@ Meu objetivo é unir tecnologia, criatividade e propósito para construir projet
 ### 📌 Projetos Recentes
 
 - [Password Guardian Web](https://github.com/BrunoAV1/password-guardian-web): Criação segura de senhas com criptografia.
-- [Detector de Gestos](https://github.com/BrunoAV1/Detector-de-Gestos): Reconhecimento de gestos via webcam.
 
-<sub>Veja mais no <a href="https://bruno-portifolio-phi.vercel.app/">portfólio online</a>.</sub>
+<sub>Veja mais no <a href="https://www.brunovasconcellos.dev/">portfólio online</a>.</sub>
 
 ---
 
