@@ -1,72 +1,135 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Bruno+Araujo+de+Vasconcellos!;Desenvolvedor+Web+e+Analista+de+Dados;Apaixonado+por+IA%2C+Machine+Learning+e+Tecnologia" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=Bruno%20Vasconcellos&fontSize=50&fontAlignY=35&desc=Coding%20for%20a%20better%20world&descAlignY=55&descSize=18"/>
 
-<h2 align="center">Transformando dados e código em soluções criativas 🚀</h2>
+[![Portfolio](https://img.shields.io/badge/🌐_brunovasconcellos.dev-00aaff?style=flat-square)](https://brunovasconcellos.dev)
+[![Email](https://img.shields.io/badge/Email-00aaff?style=flat-square&logo=gmail&logoColor=white)](mailto:brunovasconcellos.ads@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00aaff?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vasconcellos-360070351/)
+
+</div>
+
+##
+
+### 👨‍💻 Oi, eu sou o Bruno!
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Bruno Araujo de Vasconcellos"
+        self.location = "Garanhuns, Pernambuco 🇧🇷"
+        self.work = "Freelancer"
+        self.motto = "Tech for good"
+        
+    def about(self):
+        return """
+        Uso tecnologia para resolver problemas reais: automações, 
+        visão computacional, dashboards e produtos web acessíveis.
+        """
+    
+    def focus(self):
+        return ["Fullstack", "Game developer", "Dados", "IA"]
+
+bruno = Developer()
+print("Construo produtos digitais com propósito 🚀")
+```
+
+Sou movido por desafios que unem **dados**, **lógica** e **experiência do usuário**. Já desenvolvi ferramentas web, automações e protótipos de IA para resolver problemas práticos. Minha prioridade é **clareza**, **performance** e **código bem estruturado**.
+
+##
+
+### 🛠️ Pilha enxuta para ir do zero ao deploy
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+<h4>🎨 Front-end</h4>
+Experiências responsivas,<br>acessíveis e rápidas
+<br><br>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
+<td width="33%" align="center">
+<h4>⚙️ Back-end & APIs</h4>
+Integrações limpas com foco<br>em segurança e escalabilidade
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
+</td>
+<td width="33%" align="center">
+<h4>🤖 Dados & IA</h4>
+Modelagem, visão computacional<br>e automações inteligentes
+<br><br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/IA-FF6F00?style=flat-square"/>
+<br>
+<img src="https://img.shields.io/badge/Dados-00aaff?style=flat-square"/>
+</td>
+</tr>
+</table>
+
+#### 🌟 Veja meus projetos: 
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| **[Password Guardian Web](https://github.com/BrunoAV1/password-guardian-web)** | Gerador seguro de senhas com criptografia e UX simples para uso diário | `Python` `Flask` `Web` |
+| **[Leitura Livre APP](https://github.com/BrunoAV1/Leitura-Livre-APP)** | Aplicativo para leitura e biblioteca digital com organização fácil | `Flutter` `Dart` |
+| **[Detector de Sono](https://github.com/BrunoAV1/Detector-sono)** | Experimento para detectar sonolência com visão computacional | `Python` `Vision` |
+| **[EcoMonitor BR](https://github.com/BrunoAV1/ecomonitor-br)** | Dashboard ambiental simples com métricas chave e alertas | `JavaScript` `Web` |
 
 
-### 👨‍💻 Sobre Mim
+<div align="center">
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por criar soluções tecnológicas que geram impacto social e facilitam a vida das pessoas. Tenho experiência em:
+**[📁 Ver todos os repositórios →](https://github.com/BrunoAV1?tab=repositories)**
 
-- <b>Desenvolvimento Web</b>: Interfaces modernas, responsivas e acessíveis, com foco em experiência do usuário, performance e boas práticas.
-- <b>Back-End</b>: Criação de APIs, automações e integrações, priorizando lógica, segurança e escalabilidade.
-- <b>Inteligência Artificial & Dados</b>: Aplicação de machine learning, análise e visualização de dados, visão computacional e automação inteligente para gerar insights e apoiar decisões.
+</div>
 
-Meu objetivo é unir tecnologia, criatividade e propósito para construir projetos que realmente façam a diferença.
+##
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BrunoAV1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00AAFF&icon_color=00AAFF&text_color=C9D1D9"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAV1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00AAFF&text_color=C9D1D9"/>
+</div>
+
+##
+
+### ⚡ O que me move
+
+<div align="center">
+
+**Programação Web** • **Desenvolvimento de Jogos** • **Inteligência Artificial** • **Análise de Dados** 
+
+</div>
+
+Construo desde **interfaces web** acessíveis até **automações inteligentes** com visão computacional. Minha jornada é guiada por:
+
+- 🎯 Buscar resolver **problemas reais** com tecnologia
+- 🌍 Gerar **impacto social** através do código
+- 📊 Unir **dados** e **lógica** para criar valor
+- 🤝 Colaborar em **projetos open source**
+- ⚡ Priorizar **clareza** e **performance**
+
+##
+
+
 
 ---
 
-### 🛠️ Ferramentas & Tecnologias
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,spring,git,opencv,tensorflow" height="32"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-00aaff?style=flat-square&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Back--End-0077b6?style=flat-square&logo=server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA%20%26%20Dados-ff6f00?style=flat-square&logo=brain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automação-6db33f?style=flat-square&logo=gears&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visualização%20de%20Dados-5c3ee8?style=flat-square&logo=bar-chart&logoColor=white"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,20&section=footer"/>
 
 ---
 
-### 📌 Projetos Recentes
-
-- [Password Guardian Web](https://github.com/BrunoAV1/password-guardian-web): Criação segura de senhas com criptografia.
-
-<sub>Veja mais no <a href="https://www.brunovasconcellos.dev/">portfólio online</a>.</sub>
-
----
-
-### ⚡ Curiosidades & Diferenciais
-
-- Motivado por desafios e soluções baseadas em dados para impacto social.
-- Fã de jogos de estratégia, lógica e tecnologia.
-- Entusiasta de projetos colaborativos e sociais.
-- Sempre aprendendo e buscando novas formas de inovar.
-
----
-
-### 📫 Contato
-
-<p align="center">
-  <a href="mailto:brunovasconcellos.ads@gmail.com"><img src="https://img.shields.io/badge/E--mail-0077b6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/bruno-vasconcellos-360070351/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<sub>⚡ Projetado com cuidado por **[Bruno Vasconcellos](https://brunovasconcellos.dev)** • 2025</sub>
 
 
----
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoAV1&show_icons=true&hide_title=true&hide_border=true&theme=dark" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAV1&layout=compact&hide_border=true&theme=dark" height="140">
-</p>
 
----
-
-<p align="center">
-  <i>"A tecnologia é a arte de transformar ideias em soluções."</i>
-</p>
