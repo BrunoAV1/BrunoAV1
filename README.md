@@ -92,17 +92,6 @@ Modelagem, visão computacional<br>e automações inteligentes
 
 ### 📊 GitHub Stats & Contribuições
 
-<div align="center">
-
-<table>
-<tr>
-    <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=BrunoAV1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=8ab4f8&icon_color=8ab4f8&text_color=e5e7eb" />
-    </td>
-    <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAV1&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0f172a&title_color=8ab4f8&text_color=e5e7eb" />
-    </td>
-</tr>
 <tr>
     <td colspan="2" align="center">
         <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoAV1&theme=github_dark&hide_border=true&background=0f172a&title_color=8ab4f8&text_color=e5e7eb" />
