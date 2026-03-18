@@ -12,47 +12,30 @@
 
 ### 👨‍💻 Oi, eu sou o Bruno!
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Bruno Araujo de Vasconcellos"
-        self.location = "Garanhuns, Pernambuco 🇧🇷"
-        self.work = "Freelancer"
-        self.motto = "Tech for good"
-        
-    def about(self):
-        return """
-        Uso tecnologia para resolver problemas reais: automações, 
-        visão computacional, dashboards e produtos web acessíveis.
-        """
-    
-    def focus(self):
-        return ["Fullstack", "Game developer", "Dados", "IA"]
+Sou **Bruno Araujo de Vasconcellos**, estudante de tecnologia em formação contínua, com foco em aprender construindo projetos reais.
 
-bruno = Developer()
-print("Construo produtos digitais com propósito 🚀")
-```
+Minha atuação está direcionada para **infraestrutura de servidores**, **desenvolvimento de jogos**, **inteligência artificial** e **automações**.
 
-Sou movido por desafios que unem **dados**, **lógica** e **experiência do usuário**. Já desenvolvi ferramentas web, automações e protótipos de IA para resolver problemas práticos. Minha prioridade é **clareza**, **performance** e **código bem estruturado**.
+Também busco explorar novas ideias de tecnologia com criatividade, transformando conceitos em soluções práticas.
 
 ##
 
-### 🛠️ Pilha enxuta para ir do zero ao deploy
+### 🧭 Direcionamento profissional
+
+- Estudos e prática em infraestrutura de servidores e cloud (Azure)
+- Desenvolvimento de jogos como laboratório de lógica e arquitetura
+- Aplicações de IA e automações para resolver desafios do dia a dia
+- Experimentação criativa para transformar ideias em projetos
+
+##
+
+### 🛠️ Competências técnicas
 
 <table align="center">
 <tr>
 <td width="33%" align="center">
-<h4>🎨 Front-end</h4>
-Experiências responsivas,<br>acessíveis e rápidas
-<br><br>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</td>
-<td width="33%" align="center">
-<h4>⚙️ Back-end & APIs</h4>
-Integrações limpas com foco<br>em segurança e escalabilidade
+<h4>💻 Desenvolvimento</h4>
+Implementação de soluções<br>e automações
 <br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -61,25 +44,36 @@ Integrações limpas com foco<br>em segurança e escalabilidade
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
 </td>
 <td width="33%" align="center">
-<h4>🤖 Dados & IA</h4>
-Modelagem, visão computacional<br>e automações inteligentes
+<h4>🏗️ Estrutura e Entrega</h4>
+Organização técnica e<br>entrega consistente
 <br><br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/IA-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Dados-00aaff?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=flat-square"/>
+</td>
+<td width="33%" align="center">
+<h4>☁️ Infra em evolução</h4>
+Cloud e operações com foco<br>em Azure
+<br><br>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/CI/CD-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Infra_as_Code-5C2D91?style=flat-square"/>
 </td>
 </tr>
 </table>
 
-#### 🌟 Veja meus projetos: 
+#### 📁 Repositórios em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **[Password Guardian Web](https://github.com/BrunoAV1/password-guardian-web)** | Gerador seguro de senhas com criptografia e UX simples para uso diário | `Python` `Flask` `Web` |
-| **[Leitura Livre APP](https://github.com/BrunoAV1/Leitura-Livre-APP)** | Aplicativo para leitura e biblioteca digital com organização fácil | `Flutter` `Dart` |
-| **[Detector de Sono](https://github.com/BrunoAV1/Detector-sono)** | Experimento para detectar sonolência com visão computacional | `Python` `Vision` |
-| **[EcoMonitor BR](https://github.com/BrunoAV1/ecomonitor-br)** | Dashboard ambiental simples com métricas chave e alertas | `JavaScript` `Web` |
+| **[BrunoAV1](https://github.com/BrunoAV1/BrunoAV1)** | Repositório de perfil com visão geral profissional e direcionamento técnico | `Markdown` |
+| **[Leitura Livre APP](https://github.com/BrunoAV1/Leitura-Livre-APP)** | Aplicativo voltado a leitura e organização de biblioteca digital | `Flutter` `Dart` |
+| **[EcoMonitor BR](https://github.com/BrunoAV1/ecomonitor-br)** | Projeto web para visualização de métricas e acompanhamento ambiental | `JavaScript` |
+| **[Detector de Sono](https://github.com/BrunoAV1/Detector-sono)** | Projeto em Python para detecção de sonolência com visão computacional | `Python` |
 
 
 <div align="center">
@@ -92,33 +86,21 @@ Modelagem, visão computacional<br>e automações inteligentes
 
 ### 📊 GitHub Stats & Contribuições
 
-<tr>
-    <td colspan="2" align="center">
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoAV1&theme=github_dark&hide_border=true&background=0f172a&title_color=8ab4f8&text_color=e5e7eb" />
-    </td>
-</tr>
-
-</table>
-
+<div align="center">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoAV1&theme=github_dark&hide_border=true&background=0f172a&title_color=8ab4f8&text_color=e5e7eb" />
 </div>
 
 ##
 
-### ⚡ O que me move
+### ⚡ Princípios de trabalho
 
 <div align="center">
 
-**Programação Web** • **Desenvolvimento de Jogos** • **Inteligência Artificial** • **Análise de Dados** 
+**Aprendizado contínuo** • **Criatividade técnica** • **Disciplina de execução** • **Evolução constante**
 
 </div>
 
-Construo desde **interfaces web** acessíveis até **automações inteligentes** com visão computacional. Minha jornada é guiada por:
-
-- 🎯 Buscar resolver **problemas reais** com tecnologia
-- 🌍 Gerar **impacto social** através do código
-- 📊 Unir **dados** e **lógica** para criar valor
-- 🤝 Colaborar em **projetos open source**
-- ⚡ Priorizar **clareza** e **performance**
+Minha jornada é guiada por curiosidade e prática: estudar, testar, construir e evoluir em diferentes frentes da tecnologia.
 
 ##
 
@@ -132,7 +114,7 @@ Construo desde **interfaces web** acessíveis até **automações inteligentes**
 
 ---
 
-<sub>⚡ Projetado com cuidado por **[Bruno Vasconcellos](https://brunovasconcellos.dev)** • 2025</sub>
+<sub>Perfil profissional de **[Bruno Vasconcellos](https://brunovasconcellos.dev)** • 2026</sub>
 
 
 </div>
