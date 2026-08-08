@@ -1,117 +1,90 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg" alt="Bruno Vasconcellos — Software Developer" width="100%" />
+</p>
 
-# Bruno Vasconcellos
-
-**Software Developer · Backend · Automação · Segurança**
-
-Construindo, explorando e aprendendo no processo.
-
-[**Portfólio**](https://brunovasconcellos.com.br) · [**LinkedIn**](https://www.linkedin.com/in/bruno-vasconcellos-aa415b3b9) · [**Repositórios**](https://github.com/BrunoAV1?tab=repositories)
-
-</div>
-
----
-
-## Sobre mim
-
-Não busco ser bom em tudo. O que eu mais gosto é ter liberdade para **explorar coisas diferentes** e entender como elas funcionam enquanto construo.
-
-Posso começar fazendo um site simples e, pouco depois, estar mexendo em uma API, um bot, um aplicativo, visão computacional ou tentando fazer alguma ideia funcionar dentro de um jogo.
-
-**Backend, segurança e automação** continuam sendo meus principais focos, mas cloud, games, mobile, dados e outras áreas entram no caminho sempre que alguma ideia desperta curiosidade.
-
-> aprender → construir → quebrar → entender → melhorar
-
----
-
-## Meu deck de ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,spring,postgres,astro,react,vite,docker,git,github,godot,flutter&theme=dark" alt="Tecnologias e ferramentas" />
-
-</div>
+<p align="center">
+  <a href="https://brunovasconcellos.com.br"><img src="https://img.shields.io/badge/PORTFÓLIO-10161A?style=for-the-badge&logo=vercel&logoColor=91E6D6" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/bruno-vasconcellos-aa415b3b9"><img src="https://img.shields.io/badge/LINKEDIN-10161A?style=for-the-badge&logo=linkedin&logoColor=91E6D6" alt="LinkedIn" /></a>
+  <a href="https://github.com/BrunoAV1?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-10161A?style=for-the-badge&logo=github&logoColor=91E6D6" alt="Projetos" /></a>
+</p>
 
 <br>
 
-**Linguagens**  
-`Java` · `Python` · `TypeScript` · `JavaScript` · `SQL` · `Dart`
+<table>
+<tr>
+<td width="62%" valign="top">
 
-**Backend & dados**  
-`Spring Boot` · `REST APIs` · `PostgreSQL`
+<h3>Sobre mim.</h3>
 
-**Web**  
-`Astro` · `React` · `Vite`
+<p>
+Não busco ser bom em tudo. Gosto de <b>explorar</b>, entender como as coisas funcionam e aprender enquanto construo.
+</p>
 
-**Também explorando**  
-`Cloud` · `Cybersecurity` · `Computer Vision` · `Godot` · `Flutter`
+<p>
+Posso começar em um site simples e terminar mexendo com uma API, um bot, visão computacional, um app ou alguma ideia dentro de um jogo. <b>Backend, segurança e automação</b> são meus focos principais, mas não minhas fronteiras.
+</p>
 
----
+<blockquote>aprender → construir → quebrar → entender → melhorar</blockquote>
 
-## O que eu andei construindo
+</td>
+<td width="38%" valign="top">
 
-### RepoGuard
+<h3>Agora.</h3>
 
-Uma primeira leitura de segurança para repositórios públicos, organizando achados por severidade e transformando sinais técnicos em recomendações mais fáceis de entender.
+<pre>
+building   software & APIs
+exploring  cloud & security
+playing    games & mobile
+studying   ADS
+</pre>
 
-`Cybersecurity` · `Automation` · `GitHub Analysis`
+<p><sub>Curiosidade continua sendo a ferramenta que eu mais uso.</sub></p>
 
-[**Abrir projeto ↗**](https://repoguard-codigo.vercel.app/)
+</td>
+</tr>
+</table>
 
-<sub>Código fechado.</sub>
+<br>
 
----
+## Meu deck de ferramentas.
 
-### VBank Sandbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,spring,postgres,astro,react,vite,docker,git,github,godot,flutter&theme=dark" alt="Java, Python, TypeScript, JavaScript, Spring Boot, PostgreSQL, Astro, React, Vite, Docker, Git, GitHub, Godot e Flutter" />
+</p>
 
-Banco digital fictício construído para experimentar conceitos reais de sistemas financeiros: transferências atômicas, ledger, autenticação, auditoria e movimentações entre usuários.
+<p align="center">
+  <sub>Java · Python · TypeScript · Spring Boot · PostgreSQL · Astro · React · Docker · Godot · Flutter</sub>
+</p>
 
-`Java 21` · `Spring Boot` · `React` · `PostgreSQL`
+<br>
 
-[**Abrir projeto ↗**](https://v-bank-three.vercel.app/) · [**Ver código ↗**](https://github.com/BrunoAV1/VBank)
+## O que eu andei construindo.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://repoguard-codigo.vercel.app/"><img src="./assets/repoguard.svg" alt="RepoGuard" width="100%" /></a>
+  <p><sub>Código fechado · análise de segurança e automação.</sub></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://v-bank-three.vercel.app/"><img src="./assets/vbank.svg" alt="VBank Sandbox" width="100%" /></a>
+  <p><sub><a href="https://github.com/BrunoAV1/VBank">código ↗</a> · Java 21 + Spring Boot + PostgreSQL.</sub></p>
+</td>
+</tr>
+</table>
 
-### EcoMonitor BR
-
-Aplicação web para consulta de clima e qualidade do ar, com pesquisa global, comparação entre cidades, favoritos e funcionamento offline.
-
-`TypeScript` · `Vite` · `Chart.js` · `Open-Meteo`
-
-[**Abrir projeto ↗**](https://ecomonitor-br.vercel.app/) · [**Ver código ↗**](https://github.com/BrunoAV1/ecomonitor-br)
-
----
-
-### Detector de Sono
-
-Experimento de visão computacional que acompanha os olhos em tempo real para identificar sinais de sonolência e reduzir falsos positivos através da filtragem dos dados.
-
-`Python` · `OpenCV` · `MediaPipe` · `Pygame`
-
-[**Ver código ↗**](https://github.com/BrunoAV1/Detector-sono)
-
----
-
-## Atualmente
-
-```text
-building   software, APIs e automações
-exploring  cloud, segurança, games e mobile
-studying   Análise e Desenvolvimento de Sistemas
-```
-
-Tenho interesse principalmente em projetos onde existe alguma coisa para **entender, construir ou melhorar**.
-
----
+<br>
 
 <div align="center">
 
-### Mais projetos
+### Quer ver o resto?
 
-[github.com/BrunoAV1](https://github.com/BrunoAV1?tab=repositories)
+Nem tudo precisa caber num README.
 
-**[brunovasconcellos.com.br](https://brunovasconcellos.com.br)**
+**[brunovasconcellos.com.br ↗](https://brunovasconcellos.com.br)**
 
-<sub>Criado por Bruno A. Vasconcellos · 2026</sub>
+<br>
+
+<sub>Bruno A. Vasconcellos · 2026</sub>
 
 </div>
