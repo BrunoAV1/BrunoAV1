@@ -54,19 +54,8 @@ studying   ADS</pre>
       <p><sub>Java 21 · Spring Boot · React · PostgreSQL.<br /><a href="https://v-bank-three.vercel.app/">demo ↗</a> · <a href="https://github.com/BrunoAV1/VBank">código ↗</a></sub></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://ecomonitor-br.vercel.app/"><img src="./assets/ecomonitor.svg" alt="Banner do EcoMonitor BR" width="100%" /></a>
-      <p><sub>Clima e qualidade do ar · dados meteorológicos.<br /><a href="https://ecomonitor-br.vercel.app/">demo ↗</a> · <a href="https://github.com/BrunoAV1/ecomonitor-br">código ↗</a></sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://dms-study-lab-codigo.vercel.app/"><img src="./assets/dms-study-lab.svg" alt="Banner do DMS Study Lab" width="100%" /></a>
-      <p><sub>Visão computacional · laboratório experimental.<br /><a href="https://dms-study-lab-codigo.vercel.app/">demo ↗</a> · <a href="https://github.com/BrunoAV1/DMS-Study-Lab">documentação ↗</a></sub></p>
-    </td>
-  </tr>
-</table>
 
-<p align="center"><sub>O RepoGuard é uma ferramenta de apoio, não uma auditoria. O VBank opera apenas com valores fictícios. O DMS Study Lab é experimental e tem código de implementação privado.</sub></p>
+<p align="center"><sub>O RepoGuard é uma ferramenta de apoio, não uma auditoria. O VBank opera apenas com valores fictícios. </sub></p>
 
 <br />
 
