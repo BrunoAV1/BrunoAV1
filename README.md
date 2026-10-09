@@ -1,90 +1,73 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Bruno Vasconcellos — Software Developer" width="100%" />
-</p>
+&#x20;\<div align="center">
 
-<p align="center">
-  <a href="https://brunovasconcellos.com.br"><img src="https://img.shields.io/badge/PORTFÓLIO-10161A?style=for-the-badge&logo=vercel&logoColor=91E6D6" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/bruno-vasconcellos-aa415b3b9"><img src="https://img.shields.io/badge/LINKEDIN-10161A?style=for-the-badge&logo=linkedin&logoColor=91E6D6" alt="LinkedIn" /></a>
-  <a href="https://github.com/BrunoAV1?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-10161A?style=for-the-badge&logo=github&logoColor=91E6D6" alt="Projetos" /></a>
-</p>
+# Bruno Vasconcellos
 
-<br>
+**Fullstack Developer · Cybersecurity**
 
-<table>
-<tr>
-<td width="62%" valign="top">
+Aplicações web, ferramentas e experimentos em software.
 
-<h3>Sobre mim.</h3>
+[**Portfólio ↗**](https://www.brunovasconcellos.com.br/) · [**LinkedIn ↗**](https://www.linkedin.com/in/bruno-vasconcellos-aa415b3b9) · [**Repositórios ↗**](https://github.com/BrunoAV1?tab=repositories)
 
-<p>
-Não busco ser bom em tudo. Gosto de <b>explorar</b>, entender como as coisas funcionam e aprender enquanto construo.
-</p>
+\</div>
 
-<p>
-Posso começar em um site simples e terminar mexendo com uma API, um bot, visão computacional, um app ou alguma ideia dentro de um jogo. <b>Backend, segurança e automação</b> são meus focos principais, mas não minhas fronteiras.
-</p>
+---
 
-<blockquote>aprender → construir → quebrar → entender → melhorar</blockquote>
+### O que eu construo
 
-</td>
-<td width="38%" valign="top">
+Gosto de entender como as coisas funcionam e transformar esse entendimento em projetos reais. Trabalho com aplicações fullstack, APIs e ferramentas para desenvolvedores; também exploro segurança de aplicações, automação e outras áreas que me despertam curiosidade.
 
-<h3>Agora.</h3>
+Meu foco é escrever software que faça sentido — tanto na implementação quanto para quem vai utilizá-lo.
 
-<pre>
-building   software & APIs
-exploring  cloud & security
-playing    games & mobile
-studying   ADS
-</pre>
+### Projetos selecionados
 
-<p><sub>Curiosidade continua sendo a ferramenta que eu mais uso.</sub></p>
+**01 / [RepoGuard](https://github.com/BrunoAV1/RepoGuard)**
+`Segurança de software · Automação`
 
-</td>
-</tr>
-</table>
+Ferramenta de avaliação inicial de segurança para repositórios públicos do GitHub. Organiza sinais de risco por severidade e confiança, oferecendo recomendações para investigação. Não substitui uma auditoria de segurança.
 
-<br>
+[Aplicação ↗](https://repoguard-codigo.vercel.app/) · [Repositório ↗](https://github.com/BrunoAV1/RepoGuard)
 
-## Meu deck de ferramentas.
+**02 / [VBank Sandbox](https://github.com/BrunoAV1/VBank)**
+`Fullstack · Java`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,spring,postgres,astro,react,vite,docker,git,github,godot,flutter&theme=dark" alt="Java, Python, TypeScript, JavaScript, Spring Boot, PostgreSQL, Astro, React, Vite, Docker, Git, GitHub, Godot e Flutter" />
-</p>
+Ambiente bancário fictício para experimentar autenticação, transferências simuladas, ledger, auditoria e consistência transacional. Construído com Java 21, Spring Boot, React, TypeScript e PostgreSQL.
 
-<p align="center">
-  <sub>Java · Python · TypeScript · Spring Boot · PostgreSQL · Astro · React · Docker · Godot · Flutter</sub>
-</p>
+[Aplicação ↗](https://v-bank-three.vercel.app/) · [Código ↗](https://github.com/BrunoAV1/VBank)
 
-<br>
+**03 / [EcoMonitor BR](https://github.com/BrunoAV1/ecomonitor-br)**
+`Web · APIs`
 
-## O que eu andei construindo.
+Painel de clima e qualidade do ar com previsões, comparação entre cidades, favoritos e acesso ao último resultado consultado mesmo sem conexão.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://repoguard-codigo.vercel.app/"><img src="./assets/repoguard.svg" alt="RepoGuard" width="100%" /></a>
-  <p><sub>Código fechado · análise de segurança e automação.</sub></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://v-bank-three.vercel.app/"><img src="./assets/vbank.svg" alt="VBank Sandbox" width="100%" /></a>
-  <p><sub><a href="https://github.com/BrunoAV1/VBank">código ↗</a> · Java 21 + Spring Boot + PostgreSQL.</sub></p>
-</td>
-</tr>
-</table>
+[Aplicação ↗](https://ecomonitor-br.vercel.app/) · [Código ↗](https://github.com/BrunoAV1/ecomonitor-br)
 
-<br>
+**04 / [DMS Study Lab](https://github.com/BrunoAV1/DMS-Study-Lab)**
+`Visão computacional · Experimento`
 
-<div align="center">
+Laboratório de estudo sobre sinais visuais relacionados à atenção e à fadiga ao volante, com análise no navegador e simulação em 3D. Projeto experimental; o código da aplicação é privado.
 
-### Quer ver o resto?
+[Demonstração ↗](https://dms-study-lab-codigo.vercel.app/) · [Documentação pública ↗](https://github.com/BrunoAV1/DMS-Study-Lab)
 
-Nem tudo precisa caber num README.
+### Tecnologias
 
-**[brunovasconcellos.com.br ↗](https://brunovasconcellos.com.br)**
+| Área                    | Ferramentas e tecnologias               |
+| :---------------------- | :-------------------------------------- |
+| **Backend**             | Java · Spring Boot · Python · APIs REST |
+| **Frontend**            | TypeScript · JavaScript · React · Astro |
+| **Dados e ferramentas** | PostgreSQL · Git · GitHub · Docker      |
+| **Outros experimentos** | Flutter · Dart · Visão computacional    |
 
-<br>
+### Em andamento
 
-<sub>Bruno A. Vasconcellos · 2026</sub>
+- **Análise e Desenvolvimento de Sistemas** — UNIASSELVI · conclusão prevista para junho de 2027.
+- Estudos e projetos voltados a **desenvolvimento fullstack**, **segurança de aplicações** e **infraestrutura em nuvem**.
 
-</div>
+---
+
+\<div align="center">
+
+Projetos, ideias e textos em **[brunovasconcellos.com.br](https://www.brunovasconcellos.com.br/)**
+
+*Construir · testar · entender · melhorar*
+
+\</div>
